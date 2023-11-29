@@ -81,8 +81,8 @@ namespace WFA003
 
             _ = MessageBox.Show(
                 caption: "SIKERES SZÉTVÁLOGATÁS!",
-                text: "a jelentkezõk névsorait nyelvenként megtalalja a\n" +
-                      "...\\output mappában!",
+                text: "a jelentkezõk névsorait nyelvenként\n" +
+                "megtalalja a ...\\output mappában!",
                 icon: MessageBoxIcon.Information,
                 buttons: MessageBoxButtons.OK);
         }
